@@ -1,0 +1,4 @@
+#requirements.txt
+pyTelegramBotAPI==4.14.0
+pymongo==4.9.2
+psycopg2-binary
